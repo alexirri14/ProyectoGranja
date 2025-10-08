@@ -1,0 +1,17 @@
+# Manipulación de archivos Excel
+openpyxl>=3.1.0
+
+# Análisis de datos y exportación
+pandas>=1.5.0
+
+# Validación de datos
+python-dateutil>=2.8.0
+
+# Logging mejorado
+colorlog>=6.7.0
+
+# Manejo de memoria y rendimiento
+psutil>=5.9.0
+
+# Formateo de números y monedas
+babel>=2.12.0

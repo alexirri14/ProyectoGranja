@@ -1,0 +1,185 @@
+{
+  "fecha_guardado": "2025-09-25 01:31:05",
+  "tipo_seleccionado": "primera",
+  "cantidad_jabas": 11,
+  "paquetes_sesion": {
+    "P001": {
+      "id_real": 1403,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:28:04",
+      "peso_kg": 12.0,
+      "estado": "Pesado"
+    },
+    "P002": {
+      "id_real": 1404,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:28:09",
+      "peso_kg": 11.0,
+      "estado": "Pesado"
+    },
+    "P003": {
+      "id_real": 1403,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:28:45",
+      "peso_kg": 1112.0,
+      "estado": "Pesado"
+    },
+    "P004": {
+      "id_real": 1404,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:28:46",
+      "peso_kg": 12.0,
+      "estado": "Pesado"
+    },
+    "P005": {
+      "id_real": 1405,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:28:47",
+      "peso_kg": 12.0,
+      "estado": "Pesado"
+    },
+    "P006": {
+      "id_real": 1406,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:28:47",
+      "peso_kg": 12.0,
+      "estado": "Pesado"
+    },
+    "P007": {
+      "id_real": 1407,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:28:48",
+      "peso_kg": 121.0,
+      "estado": "Pesado"
+    },
+    "P008": {
+      "id_real": 1408,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:28:49",
+      "peso_kg": 11.0,
+      "estado": "Pesado"
+    },
+    "P009": {
+      "id_real": 1409,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:28:49",
+      "peso_kg": 12.0,
+      "estado": "Pesado"
+    },
+    "P010": {
+      "id_real": 1410,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:30:56",
+      "peso_kg": 11.0,
+      "estado": "Pesado"
+    },
+    "P011": {
+      "id_real": 1411,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:30:57",
+      "peso_kg": 12.0,
+      "estado": "Pesado"
+    },
+    "P012": {
+      "id_real": 1412,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:30:57",
+      "peso_kg": 121.0,
+      "estado": "Pesado"
+    },
+    "P013": {
+      "id_real": 1413,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:30:58",
+      "peso_kg": 11.0,
+      "estado": "Pesado"
+    },
+    "P014": {
+      "id_real": 1414,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:30:58",
+      "peso_kg": 1.0,
+      "estado": "Pesado"
+    },
+    "P015": {
+      "id_real": 1415,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:30:59",
+      "peso_kg": 11.0,
+      "estado": "Pesado"
+    },
+    "P016": {
+      "id_real": 1416,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:31:00",
+      "peso_kg": 12.0,
+      "estado": "Pesado"
+    },
+    "P017": {
+      "id_real": 1417,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:31:01",
+      "peso_kg": 1.2,
+      "estado": "Pesado"
+    },
+    "P018": {
+      "id_real": 1418,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:31:02",
+      "peso_kg": 112.0,
+      "estado": "Pesado"
+    },
+    "P019": {
+      "id_real": 1419,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:31:03",
+      "peso_kg": 12.0,
+      "estado": "Pesado"
+    },
+    "P020": {
+      "id_real": 1420,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:31:03",
+      "peso_kg": 12.0,
+      "estado": "Pesado"
+    },
+    "P021": {
+      "id_real": 1421,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:31:04",
+      "peso_kg": 1.0,
+      "estado": "Pesado"
+    },
+    "P022": {
+      "id_real": 1422,
+      "lote_id": 37,
+      "tipo": "Primera",
+      "fecha_pesaje": "2025-09-25 01:31:05",
+      "peso_kg": 1212.0,
+      "estado": "Pesado"
+    }
+  },
+  "sesion_activa": false,
+  "fecha_inactivacion": "2025-09-25 01:31:15"
+}
